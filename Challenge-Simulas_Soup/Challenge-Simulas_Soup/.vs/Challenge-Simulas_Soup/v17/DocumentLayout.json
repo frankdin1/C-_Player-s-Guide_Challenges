@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\C#\\C# Player\u0027s Guide\\C Sharp_Player-s-Guide_Challenges\\Challenge-Simulas_Soup\\Challenge-Simulas_Soup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ECAA88-7E71-4C5D-A689-7CA45BB1504A}|Challenge-Simulas_Soup.csproj|c:\\programming\\c#\\c# player\u0027s guide\\c sharp_player-s-guide_challenges\\challenge-simulas_soup\\challenge-simulas_soup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1ECAA88-7E71-4C5D-A689-7CA45BB1504A}|Challenge-Simulas_Soup.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\C# Player\u0027s Guide\\C Sharp_Player-s-Guide_Challenges\\Challenge-Simulas_Soup\\Challenge-Simulas_Soup\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Programming\\C#\\C# Player\u0027s Guide\\C Sharp_Player-s-Guide_Challenges\\Challenge-Simulas_Soup\\Challenge-Simulas_Soup\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwCAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:56:41.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
