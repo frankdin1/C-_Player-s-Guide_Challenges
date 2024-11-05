@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Challenge-Simulas_Soup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e76ccbd842524b2a34866f00af773e327b7d2cf5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b644a6a67cff34f122a199606ba8ceb3ed3cb1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Challenge-Simulas_Soup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Challenge-Simulas_Soup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
