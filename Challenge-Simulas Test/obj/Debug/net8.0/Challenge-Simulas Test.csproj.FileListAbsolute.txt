@@ -1,0 +1,14 @@
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\bin\Debug\net8.0\Challenge-Simulas Test.exe
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\bin\Debug\net8.0\Challenge-Simulas Test.deps.json
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\bin\Debug\net8.0\Challenge-Simulas Test.runtimeconfig.json
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\bin\Debug\net8.0\Challenge-Simulas Test.dll
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\bin\Debug\net8.0\Challenge-Simulas Test.pdb
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\obj\Debug\net8.0\Challenge-Simulas Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\obj\Debug\net8.0\Challenge-Simulas Test.AssemblyInfoInputs.cache
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\obj\Debug\net8.0\Challenge-Simulas Test.AssemblyInfo.cs
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\obj\Debug\net8.0\Challenge-Simulas Test.csproj.CoreCompileInputs.cache
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\obj\Debug\net8.0\Challenge-Simulas Test.dll
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\obj\Debug\net8.0\refint\Challenge-Simulas Test.dll
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\obj\Debug\net8.0\Challenge-Simulas Test.pdb
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\obj\Debug\net8.0\Challenge-Simulas Test.genruntimeconfig.cache
+C:\Programming\C#\C# Player's Guide\Level 16 -Enumerations\Challenge-Simulas Test\obj\Debug\net8.0\ref\Challenge-Simulas Test.dll
